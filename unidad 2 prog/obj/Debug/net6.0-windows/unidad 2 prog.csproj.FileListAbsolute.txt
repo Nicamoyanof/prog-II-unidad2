@@ -1,0 +1,25 @@
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\unidad 2 prog.exe
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\unidad 2 prog.deps.json
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\unidad 2 prog.runtimeconfig.json
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\unidad 2 prog.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\unidad 2 prog.pdb
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.csproj.AssemblyReference.cache
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad_2_prog.Form1.resources
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad_2_prog.Properties.Resources.resources
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.csproj.GenerateResource.cache
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.AssemblyInfoInputs.cache
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.AssemblyInfo.cs
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.csproj.CoreCompileInputs.cache
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.csproj.CopyComplete
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\refint\unidad 2 prog.dll
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.pdb
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\unidad 2 prog.genruntimeconfig.cache
+D:\Usuario\Nicanor\UTN\1ER AÑO\2do CUATRIMESTRE\PROGAMACION II\unidad 2 prog\unidad 2 prog\obj\Debug\net6.0-windows\ref\unidad 2 prog.dll
